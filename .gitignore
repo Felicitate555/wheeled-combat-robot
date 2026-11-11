@@ -1,0 +1,7 @@
+# Keil local workspace state
+*.uvoptx
+*.uvguix*
+
+# Regenerated output and local logs
+MDK-ARM/ToothGeigei/
+*.build_log.htm
